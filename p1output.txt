@@ -1,5 +1,5 @@
 gcc -g p1original.c
  ./a.out
-enter base and height:12
-20
-the area of the triangle with base 12.000000 and height 20.000000  is 120.000000
+enter base and height:1  
+2
+the area of the triangle with base 1.000000 and height 2.000000  is 1.000000
