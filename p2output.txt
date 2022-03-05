@@ -1,1 +1,6 @@
-
+ gcc -g p2original.c
+ ./a.out
+enter the sides56
+enter the sides32
+enter the sides33
+TRIANGLE IS SCALENE
